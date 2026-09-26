@@ -1,5 +1,9 @@
 # 🍳 Cowork Cookbook — a RACon vTwin rapplication
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/cowork-cookbook-rapp.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/cowork-cookbook-rapp.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 The [Cowork Cookbook](https://github.com/seangalliher/Coworkcookbook) as a **vTwin rapplication**,
 distributed the **RACon** (RAPP Agent Console) way: insert one cartridge, the brainstem hatches it as
 its own running twin.
